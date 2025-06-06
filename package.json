@@ -1,12 +1,12 @@
 {
-  "name": "soulextract-website",
+  "name": "trollium",
   "version": "1.0.0",
   "private": true,
   "scripts": {
-    "build": "npx gatsby build",
-    "develop": "npx gatsby develop",
-    "start": "npx gatsby develop",
-    "clean": "npx gatsby clean"
+    "build": "gatsby build",
+    "develop": "gatsby develop",
+    "start": "gatsby develop",
+    "clean": "gatsby clean"
   },
   "dependencies": {
     "gatsby": "^5.12.3",
