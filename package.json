@@ -3,11 +3,11 @@
   "version": "1.0.0",
   "description": "Trollium - Gatsby website",
   "scripts": {
-    "build": "gatsby build",
-    "develop": "gatsby develop",
-    "start": "gatsby develop",
-    "serve": "gatsby serve",
-    "clean": "gatsby clean"
+    "build": "npx gatsby build",
+    "develop": "npx gatsby develop",
+    "start": "npx gatsby develop",
+    "serve": "npx gatsby serve",
+    "clean": "npx gatsby clean"
   },
   "dependencies": {
     "gatsby": "^5.12.4",
