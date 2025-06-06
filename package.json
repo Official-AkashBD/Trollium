@@ -1,13 +1,12 @@
 {
-  "name": "trollium",
+  "name": "soulextract-website",
   "version": "1.0.0",
   "private": true,
-  "description": "Trollium - A Facebook-style social platform",
   "scripts": {
-    "develop": "gatsby develop",
-    "build": "gatsby build",
-    "start": "gatsby develop",
-    "clean": "gatsby clean"
+    "build": "npx gatsby build",
+    "develop": "npx gatsby develop",
+    "start": "npx gatsby develop",
+    "clean": "npx gatsby clean"
   },
   "dependencies": {
     "gatsby": "^5.12.3",
@@ -19,8 +18,5 @@
   },
   "engines": {
     "node": ">=18.0.0"
-  },
-  "keywords": [],
-  "author": "Official-AkashBD",
-  "license": "MIT"
+  }
 }
