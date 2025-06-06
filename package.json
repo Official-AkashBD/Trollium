@@ -3,10 +3,10 @@
   "version": "1.0.0",
   "private": true,
   "scripts": {
-    "build": "gatsby build",
-    "develop": "gatsby develop",
-    "start": "gatsby develop",
-    "clean": "gatsby clean"
+    "build": "npx gatsby build",
+    "develop": "npx gatsby develop",
+    "start": "npx gatsby develop",
+    "clean": "npx gatsby clean"
   },
   "dependencies": {
     "gatsby": "^5.12.3",
